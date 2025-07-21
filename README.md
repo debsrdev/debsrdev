@@ -65,3 +65,11 @@
 <p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Spring<br>🎯 Goals: being a senior fullstack<br>🎲 Fun fact: started as a Wordpress developer and I definitely needed more fun</p>
 
 ###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/deborarubiosoliva/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
